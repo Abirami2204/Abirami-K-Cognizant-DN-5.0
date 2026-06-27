@@ -1,4 +1,4 @@
-Cognizant Digital Nurture 5.0 — Java Full Stack Engineering (Java FSE)
+Cognizant Digital Nurture 5.0 Java Full Stack Engineering (Java FSE)
 This repository contains my completed assignments, hands-on tracking, and module exercises for the Cognizant Digital Nurture 5.0 (DN 5.0) upskilling program.
 
 📊 Module Completion Status
